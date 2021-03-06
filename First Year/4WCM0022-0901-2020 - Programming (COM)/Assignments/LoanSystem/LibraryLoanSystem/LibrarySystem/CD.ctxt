@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\r\n\ Facilitates\ the\ creation\ of\ CD\ type\ objects.\ All\ properties\ except\ from\ artist\ inherit\ from\ the\ parent\ class,\ LoanableItem.\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=cdID\ cdName\ cdArtist\ cdLoanStatus\ cdReturnDate
+comment1.target=CD(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ CD\ objects\r\n\ \r\n\ Passes\ through\ the\ specified\ parameters\ to\ the\ methods\ called\ from\ the\ parent\ class,\ (eg\ SetID),\ to\ create\ the\ CD\ with\ the\ given\ properties\ at\ runtime.\r\n\ (eg.\ SetName("A\ Thousand\ Suns")\ will\ create\ a\ CD\ with\ the\ name\ property\ "A\ Thousand\ Suns".\r\n\ \r\n\ @param\ cdID\ -\ Type\:\ int\ -\ The\ library\ ID\ of\ this\ CD.\ (eg.\ 4)\r\n\ @param\ cdName\ -\ Type\:\ String\ -\ The\ name\ of\ this\ CD.\ (eg\ "A\ Thousand\ Suns")\r\n\ @param\ cdArtist\ -\ Type\:\ String\ -\ The\ artist\ of\ this\ CD.\ (eg.\ "Linkin\ Park")\r\n\ @param\ cdLoanStatus\ -\ Type\:\ String\ -\ If\ this\ CD\ is\ on\ loan\ or\ not.\ (eg.\ "Yes")\r\n\ @param\ cdReturnDate\ -\ Type\:\ String\ -\ The\ date\ the\ CD\ should\ be\ returned\ to\ the\ library.\ (eg.\ ("25-12-2020")\r\n
+numComments=2

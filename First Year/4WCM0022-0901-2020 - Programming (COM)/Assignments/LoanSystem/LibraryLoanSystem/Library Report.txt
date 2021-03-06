@@ -1,0 +1,22 @@
+Item-1, Book, A Game of Thrones, Yes, 25-12-2020
+Item-2, Book, A Clash of Kings, No
+Item-3, Book, A Storm of Swords, Yes, 26-12-2020
+Item-4, Book, A Feast for Crows, No
+Item-5, Book, A Dance with Dragons, Yes, 25-01-2021
+Item-6, DVD, Harry Potter and the Philospher's Stone, No
+Item-7, DVD, Harry Potter Chamber of Secrets, Yes, 19-12-2020
+Item-8, DVD, Harry Potter and the Prisoner of Azkaban, No
+Item-9, DVD, Harry Potter and the Goblet of Fire, Yes, 25-12-2020
+Item-10, DVD, Harry Potter and the Half-Blood Prince, No
+Item-11, Magazine, National Geographic, Yes, 24-12-2020
+Item-12, Magazine, Women's Health, No
+Item-13, Magazine, Vogue, Yes, 25-04-2021
+Item-14, Magazine, The Critic, No
+Item-15, Magazine, Men's Fitness, Yes, 23-02-2021
+Item-16, CD, Babel, , 
+Item-17, CD, A Thousand Suns, Yes, 25-12-2020
+Item-18, CD, Only by the Night, No
+Item-19, CD, No Pads, No Helmets...Just Balls, Yes, 02-02-2020
+Item-20, CD, 21, No
+
+TOTAL: 20 items with 10 on loan.

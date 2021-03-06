@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Reports
+comment0.text=\r\n\ Tester\ class\ to\ create\ a\ collection\ of\ different\ types\ of\ objects\ and\ provide\ multiple\ ways\ of\ generating\ reporting\ information\ for\ these.\r\n\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Reports()
+comment1.text=\r\n\ \ This\ constructor\ creates\ at\ runtime,\ the\ declared\ objects\ and\ stores\ them\ in\ a\ collection\ of\ loanable\ items,\ deriving\ from\ the\ parent\ and\ child\ classes.\ \r\n
+comment2.params=
+comment2.target=int\ CalculateItemsOnLoan()
+comment2.text=\ \r\n\ \r\n\ 1)\ Iterates\ through\ the\ library\ collection\ defined\ in\ the\ constructor\ for\ this\ class\ </br>\r\n\ 2)\ Checks\ whether\ each\ object\ in\ the\ collection\ is\ on\ loan\ </br>\r\n\ 3)\ Incremens\ itemsOnLoan\ by\ 1,\ if\ the\ item\ is\ on\ loan\r\n\r\n\ @return\ \ \ \ The\ number\ of\ items\ that\ are\ on\ loan.\r\n
+comment3.params=
+comment3.target=void\ PrintReport()
+comment3.text=\ \r\n\ \r\n\ 1)\ Iterates\ through\ the\ library\ collection\ defined\ in\ the\ constructor\ for\ this\ class\ </br>\r\n\ 2)\ Invokes\ the\ GenerateReport\ method\ in\ the\ parent\ class\ prints\ the\ output\ to\ the\ console\ for\ each\ iteration\ </br>\r\n\ 3)\ When\ iteration\ is\ complete\ the\ method\ prints\ a\ summary\ to\ the\ console,\ using\ the\ collection\ length\ and\ the\ CalculateItemsOnLoan\ method\ to\ retrieve\ the\ number\ of\ items\ on\ loan.\r\n\ \r\n
+comment4.params=
+comment4.target=void\ SaveReport()
+comment4.text=\ \r\n\ \r\n\ 1)\ Iterates\ through\ the\ library\ collection\ defined\ in\ the\ constructor\ for\ this\ class\ </br>\r\n\ 2)\ Invokes\ the\ GenerateReport\ method\ in\ the\ parent\ and\ class\ appends\ each\ ojbect\ to\ a\ text\ file\ with\ specified\ filename.\ </br>\r\n\ 3)\ When\ iteration\ is\ complete\ the\ method\ appends\ a\ summary\ to\ the\ text,\ using\ the\ collection\ length\ and\ the\ CalculateItemsOnLoan\ method\ to\ retrieve\ the\ number\ of\ items\ on\ loan.\r\n\ \r\n
+numComments=5
